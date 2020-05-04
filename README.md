@@ -12,7 +12,7 @@ Corrections and suggestions are welcomed.
 ## Papers
 
 ### Tuning Models
-1. **To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks **, ACL 2019 [[pdf](https://www.aclweb.org/anthology/W19-4302.pdf)]
+1. **To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks**. ACL 2019 [[pdf](https://www.aclweb.org/anthology/W19-4302.pdf)]
 
 ### Models
 
