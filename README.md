@@ -14,6 +14,10 @@ Corrections and suggestions are welcomed.
 ### Tuning Models
 1. **To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks**. ACL 2019 [[pdf](https://www.aclweb.org/anthology/W19-4302.pdf)]
 
+
+### Parsing Structured Data
+1. [X-SQL: reinforce schema representation with context](https://arxiv.org/pdf/1908.08113.pdf) 
+
 ### Models
 
 1. **Semi-supervised Sequence Learning**. *Andrew M. Dai, Quoc V. Le*. NIPS 2015. [[pdf](https://arxiv.org/pdf/1511.01432.pdf)]
