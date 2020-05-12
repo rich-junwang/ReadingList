@@ -18,6 +18,10 @@ Corrections and suggestions are welcomed.
 ### Parsing Structured Data
 1. [X-SQL: reinforce schema representation with context](https://arxiv.org/pdf/1908.08113.pdf) 
 
+### Search
+1. [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832.pdf)
+2. [Context-Aware Sentence/Passage Term Importance Estimation For First Stage Retrieval](https://arxiv.org/pdf/1910.10687.pdf)
+
 ### Models
 
 1. **Semi-supervised Sequence Learning**. *Andrew M. Dai, Quoc V. Le*. NIPS 2015. [[pdf](https://arxiv.org/pdf/1511.01432.pdf)]
