@@ -17,6 +17,11 @@ Corrections and suggestions are welcomed.
 
 ### Parsing Structured Data
 1. [X-SQL: reinforce schema representation with context](https://arxiv.org/pdf/1908.08113.pdf) 
+2. [A Comprehensive Exploration on WikiSQL with Table-Aware Word Contextualization](https://arxiv.org/pdf/1902.01069v2.pdf)
+
+### Entity Detection/NER
+1. [Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks](https://arxiv.org/pdf/1906.03783v1.pdf)
+2. [Generalizing Natural Language Analysis through Span-relation Representations](https://arxiv.org/pdf/1911.03822.pdf)
 
 ### Search
 1. [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832.pdf)
