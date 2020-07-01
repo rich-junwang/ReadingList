@@ -11,9 +11,12 @@ Corrections and suggestions are welcomed.
 
 ## Papers
 
+### Meta-learning
+1.[Meta-Learning Update Rules for Unsupervised Representation Learning](https://arxiv.org/pdf/1804.00222v3.pdf)
+
 ### Tuning Models
 1. **To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks**. ACL 2019 [[pdf](https://www.aclweb.org/anthology/W19-4302.pdf)]
-
+2. [Training Tips for the Transformer Model](https://arxiv.org/pdf/1804.00247.pdf)
 
 ### Parsing Structured Data
 1. [X-SQL: reinforce schema representation with context](https://arxiv.org/pdf/1908.08113.pdf) 
@@ -23,6 +26,10 @@ Corrections and suggestions are welcomed.
 ### Entity Detection/NER
 1. [Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks](https://arxiv.org/pdf/1906.03783v1.pdf)
 2. [Generalizing Natural Language Analysis through Span-relation Representations](https://arxiv.org/pdf/1911.03822.pdf)
+3. [A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy](https://arxiv.org/pdf/1905.09135.pdf)
+
+### Machine Translation
+1. [Supervised Attentions for Neural Machine Translation](https://arxiv.org/pdf/1608.00112.pdf)
 
 ### Search
 1. [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832.pdf)
