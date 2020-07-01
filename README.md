@@ -18,6 +18,7 @@ Corrections and suggestions are welcomed.
 ### Parsing Structured Data
 1. [X-SQL: reinforce schema representation with context](https://arxiv.org/pdf/1908.08113.pdf) 
 2. [A Comprehensive Exploration on WikiSQL with Table-Aware Word Contextualization](https://arxiv.org/pdf/1902.01069v2.pdf)
+3. [Web Table Extraction, Retrieval and Augmentation: A Survey](https://arxiv.org/pdf/2002.00207.pdf)
 
 ### Entity Detection/NER
 1. [Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks](https://arxiv.org/pdf/1906.03783v1.pdf)
@@ -26,6 +27,14 @@ Corrections and suggestions are welcomed.
 ### Search
 1. [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832.pdf)
 2. [Context-Aware Sentence/Passage Term Importance Estimation For First Stage Retrieval](https://arxiv.org/pdf/1910.10687.pdf)
+
+### QA
+1. [Pre-training Tasks for Embedding-based Large-scale Retrieval](https://arxiv.org/pdf/2002.03932.pdf)
+
+### Dialog
+1. [Machine learning for dialog state tracking: a review](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44018.pdf) 2015
+2. [The Dialog State Tracking Challenge Series: A Review](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/williams2016dstc_overview-1.pdf) 2016
+3. [An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking](https://www.aclweb.org/anthology/P18-1134.pdf) 2018 ACL
 
 ### Models
 
