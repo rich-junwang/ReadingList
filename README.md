@@ -27,6 +27,7 @@ Corrections and suggestions are welcomed.
 1. [Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks](https://arxiv.org/pdf/1906.03783v1.pdf)
 2. [Generalizing Natural Language Analysis through Span-relation Representations](https://arxiv.org/pdf/1911.03822.pdf)
 3. [A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy](https://arxiv.org/pdf/1905.09135.pdf)
+4. [Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing](https://arxiv.org/pdf/1903.02591.pdf)
 
 ### Machine Translation
 1. [Supervised Attentions for Neural Machine Translation](https://arxiv.org/pdf/1608.00112.pdf)
