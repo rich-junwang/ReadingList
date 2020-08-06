@@ -32,6 +32,9 @@ Corrections and suggestions are welcomed.
 ### Machine Translation
 1. [Supervised Attentions for Neural Machine Translation](https://arxiv.org/pdf/1608.00112.pdf)
 
+### Entity Linking
+1. [Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/pdf/1911.03814.pdf)
+
 ### Search
 1. [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832.pdf)
 2. [Context-Aware Sentence/Passage Term Importance Estimation For First Stage Retrieval](https://arxiv.org/pdf/1910.10687.pdf)
