@@ -28,9 +28,13 @@ Corrections and suggestions are welcomed.
 2. [Generalizing Natural Language Analysis through Span-relation Representations](https://arxiv.org/pdf/1911.03822.pdf)
 3. [A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy](https://arxiv.org/pdf/1905.09135.pdf)
 4. [Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing](https://arxiv.org/pdf/1903.02591.pdf)
+5. [Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition](https://arxiv.org/pdf/1904.04458.pdf)
 
 ### Machine Translation
 1. [Supervised Attentions for Neural Machine Translation](https://arxiv.org/pdf/1608.00112.pdf)
+
+### Text Generation
+1. [Logical Natural Language Generation from Open-Domain Tables](https://arxiv.org/pdf/2004.10404.pdf)
 
 ### Entity Linking
 1. [Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/pdf/1911.03814.pdf)
