@@ -42,9 +42,11 @@ Corrections and suggestions are welcomed.
 ### Search
 1. [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832.pdf)
 2. [Context-Aware Sentence/Passage Term Importance Estimation For First Stage Retrieval](https://arxiv.org/pdf/1910.10687.pdf)
+3. [Text-based Question Answering from Information Retrieval and Deep Neural Network Perspectives: A Survey](https://arxiv.org/pdf/2002.06612.pdf)
 
 ### QA
 1. [Pre-training Tasks for Embedding-based Large-scale Retrieval](https://arxiv.org/pdf/2002.03932.pdf)
+2. [Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering](https://arxiv.org/pdf/1908.08167.pdf)
 
 ### Dialog
 1. [Machine learning for dialog state tracking: a review](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44018.pdf) 2015
