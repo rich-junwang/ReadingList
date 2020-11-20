@@ -2,12 +2,7 @@
 
 
 ## Introduction
-
-Pre-trained Languge Model (PLM) is a very popular topic in NLP. In this repo, we list some representative work on PLM and show their relationship with a diagram. Feel free to distribute or use it! [Here](https://github.com/thunlp/PLMpapers/blob/master/PLMfamily.pptx) you can get the source PPT file of the diagram if you want to use it in your presentation.
-
-
-Corrections and suggestions are welcomed. 
-
+This repo will record papers I found interesting. I'll update sporadically.
 
 ## Papers
 
