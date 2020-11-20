@@ -11,6 +11,9 @@ Corrections and suggestions are welcomed.
 
 ## Papers
 
+### Neural Network Recipe
+1.[Do We Need Zero Training Loss After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
+
 ### Meta-learning
 1.[Meta-Learning Update Rules for Unsupervised Representation Learning](https://arxiv.org/pdf/1804.00222v3.pdf)
 
@@ -47,6 +50,7 @@ Corrections and suggestions are welcomed.
 ### QA
 1. [Pre-training Tasks for Embedding-based Large-scale Retrieval](https://arxiv.org/pdf/2002.03932.pdf)
 2. [Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering](https://arxiv.org/pdf/1908.08167.pdf)
+3. [A Review on Deep Learning Techniques Applied to Answer Selection](https://www.aclweb.org/anthology/C18-1181.pdf)
 
 ### Dialog
 1. [Machine learning for dialog state tracking: a review](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44018.pdf) 2015
