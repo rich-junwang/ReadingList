@@ -7,10 +7,11 @@ This repo will record papers I found interesting. I'll update sporadically.
 ## Papers
 
 ### Neural Network Recipe
-1.[Do We Need Zero Training Loss After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
+1. [Do We Need Zero Training Loss After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
+2. [Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://arxiv.org/abs/1805.07836)
 
 ### Meta-learning
-1.[Meta-Learning Update Rules for Unsupervised Representation Learning](https://arxiv.org/pdf/1804.00222v3.pdf)
+1. [Meta-Learning Update Rules for Unsupervised Representation Learning](https://arxiv.org/pdf/1804.00222v3.pdf)
 
 ### Tuning Models
 1. **To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks**. ACL 2019 [[pdf](https://www.aclweb.org/anthology/W19-4302.pdf)]
