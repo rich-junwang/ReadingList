@@ -21,6 +21,7 @@ This repo will record papers I found interesting. I'll update sporadically.
 1. [X-SQL: reinforce schema representation with context](https://arxiv.org/pdf/1908.08113.pdf) 
 2. [A Comprehensive Exploration on WikiSQL with Table-Aware Word Contextualization](https://arxiv.org/pdf/1902.01069v2.pdf)
 3. [Web Table Extraction, Retrieval and Augmentation: A Survey](https://arxiv.org/pdf/2002.00207.pdf)
+4. [Query Understanding for Natural Language Enterprise Search](https://arxiv.org/pdf/2012.06238.pdf)
 
 ### Entity Detection/NER
 1. [Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks](https://arxiv.org/pdf/1906.03783v1.pdf)
@@ -47,6 +48,8 @@ This repo will record papers I found interesting. I'll update sporadically.
 1. [Pre-training Tasks for Embedding-based Large-scale Retrieval](https://arxiv.org/pdf/2002.03932.pdf)
 2. [Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering](https://arxiv.org/pdf/1908.08167.pdf)
 3. [A Review on Deep Learning Techniques Applied to Answer Selection](https://www.aclweb.org/anthology/C18-1181.pdf)
+4. [End-to-End Training of Neural Retrievers for Open-Domain Question Answering](https://arxiv.org/pdf/2101.00408.pdf)
+5. [ Leveraging passage retrieval with generative models for open domain question answering](https://arxiv.org/pdf/2007.01282.pdf)
 
 ### Dialog
 1. [Machine learning for dialog state tracking: a review](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44018.pdf) 2015
