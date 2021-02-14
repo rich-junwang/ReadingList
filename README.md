@@ -62,6 +62,7 @@ This repo will record papers I found interesting. I'll update sporadically.
 3. [A Review on Deep Learning Techniques Applied to Answer Selection](https://www.aclweb.org/anthology/C18-1181.pdf)
 4. [End-to-End Training of Neural Retrievers for Open-Domain Question Answering](https://arxiv.org/pdf/2101.00408.pdf)
 5. [ Leveraging passage retrieval with generative models for open domain question answering](https://arxiv.org/pdf/2007.01282.pdf)
+6. [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf)
 
 ### Dialog
 1. [Machine learning for dialog state tracking: a review](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44018.pdf) 2015
