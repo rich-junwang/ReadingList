@@ -6,6 +6,18 @@ This repo will record papers I found interesting. I'll update sporadically.
 
 ## Papers
 
+### VQA and Image-Text Retrieval
+1. [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf)
+2. [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/pdf/2102.05918.pdf)
+3. [Training Vision Transformers for Image Retrieval](https://arxiv.org/pdf/2102.05644.pdf)
+4. [In Defense of Grid Features for Visual Question Answering](https://arxiv.org/pdf/2001.03615.pdf)
+5. [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf)
+6. [Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf)
+7. [Fashion IQ: A New Dataset Towards Retrieving Images by Natural Language Feedback](https://arxiv.org/pdf/1905.12794.pdf)
+8. [Context-Aware Attention Network for Image-Text Retrieval](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Context-Aware_Attention_Network_for_Image-Text_Retrieval_CVPR_2020_paper.pdf)
+9. [Using Text to Teach Image Retrieval](https://arxiv.org/pdf/2011.09928.pdf)
+10. [What BERT Sees: Cross-Modal Transfer for Visual Question Generation](https://arxiv.org/pdf/2002.10832.pdf)
+
 ### Neural Network Recipe
 1. [Do We Need Zero Training Loss After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
 2. [Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://arxiv.org/abs/1805.07836)
