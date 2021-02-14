@@ -17,6 +17,7 @@ This repo will record papers I found interesting. I'll update sporadically.
 8. [Context-Aware Attention Network for Image-Text Retrieval](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Context-Aware_Attention_Network_for_Image-Text_Retrieval_CVPR_2020_paper.pdf)
 9. [Using Text to Teach Image Retrieval](https://arxiv.org/pdf/2011.09928.pdf)
 10. [What BERT Sees: Cross-Modal Transfer for Visual Question Generation](https://arxiv.org/pdf/2002.10832.pdf)
+11. [A Fast and Accurate One-Stage Approach to Visual Grounding](https://par.nsf.gov/servlets/purl/10169166)
 
 ### Neural Network Recipe
 1. [Do We Need Zero Training Loss After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
@@ -61,7 +62,7 @@ This repo will record papers I found interesting. I'll update sporadically.
 2. [Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering](https://arxiv.org/pdf/1908.08167.pdf)
 3. [A Review on Deep Learning Techniques Applied to Answer Selection](https://www.aclweb.org/anthology/C18-1181.pdf)
 4. [End-to-End Training of Neural Retrievers for Open-Domain Question Answering](https://arxiv.org/pdf/2101.00408.pdf)
-5. [ Leveraging passage retrieval with generative models for open domain question answering](https://arxiv.org/pdf/2007.01282.pdf)
+5. [Leveraging passage retrieval with generative models for open domain question answering](https://arxiv.org/pdf/2007.01282.pdf)
 6. [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf)
 
 ### Dialog
