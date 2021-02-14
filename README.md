@@ -18,6 +18,7 @@ This repo will record papers I found interesting. I'll update sporadically.
 9. [Using Text to Teach Image Retrieval](https://arxiv.org/pdf/2011.09928.pdf)
 10. [What BERT Sees: Cross-Modal Transfer for Visual Question Generation](https://arxiv.org/pdf/2002.10832.pdf)
 11. [A Fast and Accurate One-Stage Approach to Visual Grounding](https://par.nsf.gov/servlets/purl/10169166)
+12. [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/pdf/2006.06195.pdf)
 
 ### Neural Network Recipe
 1. [Do We Need Zero Training Loss After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
