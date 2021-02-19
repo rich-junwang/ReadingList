@@ -19,6 +19,15 @@ This repo will record papers I found interesting. I'll update sporadically.
 10. [What BERT Sees: Cross-Modal Transfer for Visual Question Generation](https://arxiv.org/pdf/2002.10832.pdf)
 11. [A Fast and Accurate One-Stage Approach to Visual Grounding](https://par.nsf.gov/servlets/purl/10169166)
 12. [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/pdf/2006.06195.pdf)
+13. [e-SNLI-VE-2.0: Corrected Visual-Textual Entailment with Natural Language Explanations](https://github.com/virginie-do/e-SNLI-VE)
+14. [CAMP: Cross-Modal Adaptive Message Passing for Text-Image Retrieval](https://arxiv.org/abs/1909.05506) 
+
+### Video
+[Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning](https://arxiv.org/pdf/2003.00392.pdf)
+[Video Re-localization](https://arxiv.org/pdf/1808.01575.pdf)
+[Use What You Have: Video Retrieval Using Representations From Collaborative Experts](https://arxiv.org/pdf/1907.13487.pdf)
+[HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips](https://arxiv.org/pdf/1906.03327v2.pdf)
+[Multi-modal Transformer for Video Retrieval](https://arxiv.org/pdf/2007.10639v1.pdf)
 
 ### Neural Network Recipe
 1. [Do We Need Zero Training Loss After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
