@@ -29,6 +29,10 @@ This repo will record papers I found interesting. I'll update sporadically.
 [HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips](https://arxiv.org/pdf/1906.03327v2.pdf)
 [Multi-modal Transformer for Video Retrieval](https://arxiv.org/pdf/2007.10639v1.pdf)
 
+### Recommendation, Ad, Search (Ranking)
+1. [Deep & Cross Network for Ad Click Predictions](https://arxiv.org/pdf/1708.05123.pdf)
+2. [COLD: Towards the Next Generation of Pre-Ranking System](https://arxiv.org/pdf/2007.16122.pdf) 
+
 ### Neural Network Recipe
 1. [Do We Need Zero Training Loss After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
 2. [Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://arxiv.org/abs/1805.07836)
