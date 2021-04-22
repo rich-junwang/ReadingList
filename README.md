@@ -6,6 +6,11 @@ This repo will record papers I found interesting. I'll update sporadically.
 
 ## Papers
 
+### Semantic parsing for NLU
+1. [Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing](https://arxiv.org/abs/2010.03546)
+2. [Low-Resource Task-Oriented Semantic Parsing via Intrinsic Modeling](https://arxiv.org/pdf/2104.07224.pdf)
+3. [Span Pointer Networks for Non-Autoregressive Task-Oriented Semantic Parsing](https://arxiv.org/pdf/2104.07275.pdf)
+
 ### Decoding
 1. [DIVERSE BEAM SEARCH: DECODING DIVERSE SOLUTIONS FROM NEURAL SEQUENCE MODELS](https://arxiv.org/pdf/1610.02424.pdf)
 2. [NEUROLOGIC DECODING: (Un)supervised Neural Text Generation with Predicate Logic Constraints)](https://arxiv.org/pdf/2010.12884.pdf)
@@ -63,6 +68,10 @@ This repo will record papers I found interesting. I'll update sporadically.
 3. [A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy](https://arxiv.org/pdf/1905.09135.pdf)
 4. [Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing](https://arxiv.org/pdf/1903.02591.pdf)
 5. [Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition](https://arxiv.org/pdf/1904.04458.pdf)
+
+### Relation extraction
+1. [An End-to-end Model for Entity-level Relation Extraction using Multi-instance Learning](https://arxiv.org/pdf/2102.05980.pdf)
+
 
 ### Machine Translation
 1. [Supervised Attentions for Neural Machine Translation](https://arxiv.org/pdf/1608.00112.pdf)
