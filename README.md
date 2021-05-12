@@ -57,6 +57,7 @@ This repo will record papers I found interesting. I'll update sporadically.
 1. **To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks**. ACL 2019 [[pdf](https://www.aclweb.org/anthology/W19-4302.pdf)]
 2. [Training Tips for the Transformer Model](https://arxiv.org/pdf/1804.00247.pdf)
 3. [ON THE STABILITY OF FINE-TUNING BERT: MISCONCEPTIONS, EXPLANATIONS, AND STRONG BASELINES](https://arxiv.org/pdf/2006.04884.pdf)
+4. [Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://arxiv.org/abs/1805.07836)
 
 ### Parsing Structured Data
 1. [X-SQL: reinforce schema representation with context](https://arxiv.org/pdf/1908.08113.pdf) 
