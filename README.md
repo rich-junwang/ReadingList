@@ -45,6 +45,7 @@ This repo will record papers I found interesting. I'll update sporadically.
 3. [Passage Re-ranking with BERT](https://arxiv.org/pdf/1901.04085.pdf)
 4. [Document Ranking with a Pretrained Sequence-to-Sequence Model](https://arxiv.org/abs/2003.06713)
 5. [A User-Centered Concept Mining System for Query and Document Understanding at Tencent](https://arxiv.org/pdf/1905.08487.pdf)
+6. [Domain-Specific Pretraining for Vertical Search Case Study on Biomedical Literature](https://arxiv.org/pdf/2106.13375.pdf)
 
 ### Neural Network Recipe
 1. [Do We Need Zero Training Loss After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
