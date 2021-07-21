@@ -86,6 +86,9 @@ This repo will record papers I found interesting. I'll update sporadically.
 
 ### Text Generation
 1. [Logical Natural Language Generation from Open-Domain Tables](https://arxiv.org/pdf/2004.10404.pdf)
+2. [Auxiliary Tuning and its Application to Conditional Text Generation](https://arxiv.org/pdf/2006.16823.pdf)
+3. [SenseBERT: Driving Some Sense into BERT](https://arxiv.org/pdf/1908.05646.pdf)
+4. [PMI-MASKING: PRINCIPLED MASKING OF CORRELATED SPANS](https://openreview.net/pdf?id=3Aoft6NWFej)
 
 ### Entity Linking
 1. [Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/pdf/1911.03814.pdf)
