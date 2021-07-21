@@ -74,6 +74,8 @@ This repo will record papers I found interesting. I'll update sporadically.
 3. [A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy](https://arxiv.org/pdf/1905.09135.pdf)
 4. [Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing](https://arxiv.org/pdf/1903.02591.pdf)
 5. [Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition](https://arxiv.org/pdf/1904.04458.pdf)
+6. [Boundary Enhanced Neural Span Classification for Nested Named Entity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/6434)
+7. [Named Entity Recognition in the Style of Object Detection](https://arxiv.org/pdf/2101.11122.pdf)
 
 ### Relation extraction
 1. [An End-to-end Model for Entity-level Relation Extraction using Multi-instance Learning](https://arxiv.org/pdf/2102.05980.pdf)
