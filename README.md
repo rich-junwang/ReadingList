@@ -106,6 +106,7 @@ This repo will record papers I found interesting. I'll update sporadically.
 5. [Leveraging passage retrieval with generative models for open domain question answering](https://arxiv.org/pdf/2007.01282.pdf)
 6. [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf)
 7. [Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases](https://arxiv.org/pdf/2011.07743.pdf)
+8. [End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems](https://arxiv.org/pdf/2010.06028.pdf)
 
 ### Dialog
 1. [Machine learning for dialog state tracking: a review](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44018.pdf) 2015
