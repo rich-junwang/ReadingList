@@ -12,6 +12,7 @@ This repo will record papers I found interesting. I'll update sporadically.
 3. [Span Pointer Networks for Non-Autoregressive Task-Oriented Semantic Parsing](https://arxiv.org/pdf/2104.07275.pdf)
 4. [Compositional Generalization and Natural Language Variation:Can a Semantic Parsing Approach Handle Both?](https://arxiv.org/pdf/2010.12725.pdf)
 
+
 ### Decoding
 1. [DIVERSE BEAM SEARCH: DECODING DIVERSE SOLUTIONS FROM NEURAL SEQUENCE MODELS](https://arxiv.org/pdf/1610.02424.pdf)
 2. [NEUROLOGIC DECODING: (Un)supervised Neural Text Generation with Predicate Logic Constraints)](https://arxiv.org/pdf/2010.12884.pdf)
