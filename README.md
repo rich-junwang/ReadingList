@@ -54,6 +54,7 @@ This repo will record papers I found interesting. I'll update sporadically.
 1. [Do We Need Zero Training Loss After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709)
 2. [Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://arxiv.org/abs/1805.07836)
 3. [ON THE STABILITY OF FINE-TUNING BERT: MISCONCEPTIONS, EXPLANATIONS, AND STRONG BASELINES](https://arxiv.org/pdf/2006.04884.pdf)
+4. [Subword Pooling Makes a Difference](https://arxiv.org/pdf/2102.10864v2.pdf)
 
 ### Meta-learning
 1. [Meta-Learning Update Rules for Unsupervised Representation Learning](https://arxiv.org/pdf/1804.00222v3.pdf)
