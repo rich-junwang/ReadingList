@@ -80,6 +80,9 @@ This repo will record papers I found interesting. I'll update sporadically.
 6. [Boundary Enhanced Neural Span Classification for Nested Named Entity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/6434)
 7. [Named Entity Recognition in the Style of Object Detection](https://arxiv.org/pdf/2101.11122.pdf)
 
+### Entity Linking
+1. [Scalable Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/pdf/1911.03814.pdf)
+
 ### Relation extraction
 1. [An End-to-end Model for Entity-level Relation Extraction using Multi-instance Learning](https://arxiv.org/pdf/2102.05980.pdf)
 
