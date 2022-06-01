@@ -55,6 +55,7 @@ This repo will record papers I found interesting. I'll update sporadically.
 2. [Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://arxiv.org/abs/1805.07836)
 3. [ON THE STABILITY OF FINE-TUNING BERT: MISCONCEPTIONS, EXPLANATIONS, AND STRONG BASELINES](https://arxiv.org/pdf/2006.04884.pdf)
 4. [Subword Pooling Makes a Difference](https://arxiv.org/pdf/2102.10864v2.pdf)
+5. [PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions](https://arxiv.org/abs/2204.12511)
 
 ### Meta-learning
 1. [Meta-Learning Update Rules for Unsupervised Representation Learning](https://arxiv.org/pdf/1804.00222v3.pdf)
