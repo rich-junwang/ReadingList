@@ -17,6 +17,7 @@ This repo will record papers I found interesting. I'll update sporadically.
 1. [DIVERSE BEAM SEARCH: DECODING DIVERSE SOLUTIONS FROM NEURAL SEQUENCE MODELS](https://arxiv.org/pdf/1610.02424.pdf)
 2. [NEUROLOGIC DECODING: (Un)supervised Neural Text Generation with Predicate Logic Constraints)](https://arxiv.org/pdf/2010.12884.pdf)
 3. [Fast Lexically Constrained Decoding with Dynamic Beam Allocation for Neural Machine Translation](https://www.aclweb.org/anthology/N18-1119.pdf)
+4. [Competition-Level Code Generation with AlphaCode](https://arxiv.org/pdf/2203.07814.pdf)
 
 ### VQA and Image-Text Retrieval
 1. [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf)
